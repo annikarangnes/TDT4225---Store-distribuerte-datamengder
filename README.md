@@ -1,5 +1,5 @@
 
-# Prosjektnavn: Database‐analyse av store datasett
+# Database‐analyse av store datasett
 
 Dette repoet inneholder kun kildekoden (skriptene) for prosjektet. Selve datasettene (store filer) er IKKE inkludert av plasshensyn. Følg stegene under for å laste ned og bruke data:
 
