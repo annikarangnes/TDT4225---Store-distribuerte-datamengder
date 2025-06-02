@@ -1,10 +1,4 @@
-# Ignore dataset directory
 /dataset/
-
-# (Eventuelt) ZIP-fil hvis du har lastet den inn tidligere
-/dataset.zip
-
-# Andre midlertidige filer
 __pycache__/
 *.pyc
 *.log
